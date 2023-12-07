@@ -22,4 +22,4 @@ To use TypingTest-Console, you need to have Java installed on your machine. Foll
 We welcome contributions to TypingTest-Console. Whether you're interested in adding new features, fixing bugs, or improving documentation, feel free to fork this repository and submit a pull request.
 
 ## License
-This project is licensed under [specify the license type here].
+Free to Use.
